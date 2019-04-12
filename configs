@@ -1,0 +1,6 @@
+   
+    -- cmder integrado no terminal do vscode
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k C:\\Users\\thiago.martins\\Desktop\\Cmder\\vendor\\init.bat"
+    ],
